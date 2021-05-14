@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="395669bf-ed03-4696-baef-f15302083c3e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+    <option name="REVERSE_PATCH" value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ModuleEditorState">
+    <option name="LAST_EDITED_MODULE_NAME" />
+    <option name="LAST_EDITED_TAB_NAME" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1s9mc9tcr2sj8J8rbS4lVno0ehx" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state />
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="BashSupport" />
+  </component>
+  <component name="RunManager" selected="Application.KafkaConsumerProducerDemo">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method>
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="KafkaConsumerProducerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafka.examples.KafkaConsumerProducerDemo" />
+      <module name="kafka-0.10.1.0-src-examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafka.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaServer" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="kafka.Kafka" />
+      <module name="core" />
+      <option name="PROGRAM_PARAMETERS" value="config/server.properties" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafka.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleConsumerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafka.examples.SimpleConsumerDemo" />
+      <module name="kafka-0.10.1.0-src-examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafka.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="D:\Program Files\Git\bin\bash.exe" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="启动kafka-server" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="D:\Program Files\Git\bin\bash.exe" />
+      <option name="PROJECT_INTERPRETER" value="true" />
+      <option name="WORKING_DIRECTORY" value="E:\sourcestudy\kafka\kafka-0.10.1.0-src" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\sourcestudy\kafka\kafka-0.10.1.0-src\bin\kafka-server-start.sh" />
+      <option name="PARAMETERS" value="config/server.properties" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="启动zookeeper" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="D:\Program Files\Git\bin\bash.exe" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="E:\sourcestudy\kafka\kafka-0.10.1.0-src" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\sourcestudy\kafka\kafka-0.10.1.0-src\bin\zookeeper-server-start.sh" />
+      <option name="PARAMETERS" value="config/zookeeper.properties" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.KafkaServer" />
+      <item itemvalue="Application.KafkaConsumerProducerDemo" />
+      <item itemvalue="Application.SimpleConsumerDemo" />
+      <item itemvalue="Bash.启动kafka-server" />
+      <item itemvalue="Bash.启动zookeeper" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KafkaConsumerProducerDemo" />
+        <item itemvalue="Application.SimpleConsumerDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="395669bf-ed03-4696-baef-f15302083c3e" name="Default Changelist" comment="" />
+      <created>1620293256159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620293256159</updated>
+      <workItem from="1620293257392" duration="909000" />
+      <workItem from="1620294180896" duration="80480000" />
+      <workItem from="1620727812797" duration="5890000" />
+      <workItem from="1620806956746" duration="610000" />
+      <workItem from="1620809173055" duration="7000" />
+      <workItem from="1620888850413" duration="2734000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620306738228">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="453" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/78.0.1842.1080/-1920.0.1920.1040@78.0.1842.1080" timestamp="1620306738228" />
+    <state x="779" y="245" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1620306686862">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="779" y="245" key="#com.intellij.ide.macro.MacrosDialog/78.0.1842.1080/-1920.0.1920.1040@78.0.1842.1080" timestamp="1620306686862" />
+    <state x="728" y="329" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1620306677362">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="728" y="329" key="#com.intellij.ide.util.TreeClassChooserDialog/78.0.1842.1080/-1920.0.1920.1040@78.0.1842.1080" timestamp="1620306677362" />
+    <state x="-1215" y="233" key="#xdebugger.evaluate" timestamp="1620471261669">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1215" y="233" key="#xdebugger.evaluate/78.0.1842.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620471261669" />
+    <state x="754" y="242" key="#xdebugger.evaluate/78.0.1842.1080/-1920.0.1920.1040@78.0.1842.1080" timestamp="1620294909487" />
+    <state width="1296" height="581" key="DebuggerActiveHint" timestamp="1620728878207">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1296" height="581" key="DebuggerActiveHint/78.0.1842.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620728878207" />
+    <state width="550" height="547" key="DebuggerActiveHint/78.0.1842.1080/-1920.0.1920.1040@78.0.1842.1080" timestamp="1620369975251" />
+    <state x="-1701" y="265" key="FileChooserDialogImpl" timestamp="1620960346732">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1701" y="265" key="FileChooserDialogImpl/78.0.1842.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620960346732" />
+    <state x="288" y="275" key="FileChooserDialogImpl/78.0.1842.1080/-1920.0.1920.1040@78.0.1842.1080" timestamp="1620296060442" />
+    <state width="1877" height="310" key="GridCell.Tab.0.bottom" timestamp="1620805201733">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="310" key="GridCell.Tab.0.bottom/78.0.1842.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620805201733" />
+    <state width="1799" height="380" key="GridCell.Tab.0.bottom/78.0.1842.1080/-1920.0.1920.1040@78.0.1842.1080" timestamp="1620612360886" />
+    <state width="1799" height="258" key="GridCell.Tab.0.bottom/78.0.1842.1080@78.0.1842.1080" timestamp="1620522594663" />
+    <state width="1877" height="310" key="GridCell.Tab.0.center" timestamp="1620805201733">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="310" key="GridCell.Tab.0.center/78.0.1842.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620805201733" />
+    <state width="1799" height="380" key="GridCell.Tab.0.center/78.0.1842.1080/-1920.0.1920.1040@78.0.1842.1080" timestamp="1620612360886" />
+    <state width="1799" height="258" key="GridCell.Tab.0.center/78.0.1842.1080@78.0.1842.1080" timestamp="1620522594663" />
+    <state width="1877" height="310" key="GridCell.Tab.0.left" timestamp="1620805201733">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="310" key="GridCell.Tab.0.left/78.0.1842.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620805201733" />
+    <state width="1799" height="380" key="GridCell.Tab.0.left/78.0.1842.1080/-1920.0.1920.1040@78.0.1842.1080" timestamp="1620612360886" />
+    <state width="1799" height="258" key="GridCell.Tab.0.left/78.0.1842.1080@78.0.1842.1080" timestamp="1620522594663" />
+    <state width="1877" height="310" key="GridCell.Tab.0.right" timestamp="1620805201733">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="310" key="GridCell.Tab.0.right/78.0.1842.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620805201733" />
+    <state width="1799" height="380" key="GridCell.Tab.0.right/78.0.1842.1080/-1920.0.1920.1040@78.0.1842.1080" timestamp="1620612360886" />
+    <state width="1799" height="258" key="GridCell.Tab.0.right/78.0.1842.1080@78.0.1842.1080" timestamp="1620522594663" />
+    <state width="1877" height="384" key="GridCell.Tab.1.bottom" timestamp="1620805201728">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="384" key="GridCell.Tab.1.bottom/78.0.1842.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620805201728" />
+    <state width="1799" height="380" key="GridCell.Tab.1.bottom/78.0.1842.1080/-1920.0.1920.1040@78.0.1842.1080" timestamp="1620612360886" />
+    <state width="1799" height="258" key="GridCell.Tab.1.bottom/78.0.1842.1080@78.0.1842.1080" timestamp="1620522593873" />
+    <state width="1877" height="384" key="GridCell.Tab.1.center" timestamp="1620805201728">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="384" key="GridCell.Tab.1.center/78.0.1842.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620805201728" />
+    <state width="1799" height="380" key="GridCell.Tab.1.center/78.0.1842.1080/-1920.0.1920.1040@78.0.1842.1080" timestamp="1620612360886" />
+    <state width="1799" height="258" key="GridCell.Tab.1.center/78.0.1842.1080@78.0.1842.1080" timestamp="1620522593873" />
+    <state width="1877" height="384" key="GridCell.Tab.1.left" timestamp="1620805201728">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="384" key="GridCell.Tab.1.left/78.0.1842.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620805201728" />
+    <state width="1799" height="380" key="GridCell.Tab.1.left/78.0.1842.1080/-1920.0.1920.1040@78.0.1842.1080" timestamp="1620612360886" />
+    <state width="1799" height="258" key="GridCell.Tab.1.left/78.0.1842.1080@78.0.1842.1080" timestamp="1620522593873" />
+    <state width="1877" height="384" key="GridCell.Tab.1.right" timestamp="1620805201728">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="384" key="GridCell.Tab.1.right/78.0.1842.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620805201728" />
+    <state width="1799" height="380" key="GridCell.Tab.1.right/78.0.1842.1080/-1920.0.1920.1040@78.0.1842.1080" timestamp="1620612360886" />
+    <state width="1799" height="258" key="GridCell.Tab.1.right/78.0.1842.1080@78.0.1842.1080" timestamp="1620522593873" />
+    <state x="429" y="100" key="SettingsEditor" timestamp="1620296812767">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="429" y="100" key="SettingsEditor/78.0.1842.1080/-1920.0.1920.1040@78.0.1842.1080" timestamp="1620296812767" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1620471663387">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/78.0.1842.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620471663387" />
+    <state x="-1417" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1620627201805">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1417" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/78.0.1842.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620627201805" />
+    <state x="-1271" y="262" width="973" height="536" key="find.popup" timestamp="1620889030976">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1271" y="262" width="973" height="536" key="find.popup/78.0.1842.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620889030976" />
+    <state x="701" y="272" width="652" height="536" key="find.popup/78.0.1842.1080/-1920.0.1920.1040@78.0.1842.1080" timestamp="1620359705760" />
+    <state x="-1311" y="226" width="701" height="653" key="search.everywhere.popup" timestamp="1620637063549">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1311" y="226" width="701" height="653" key="search.everywhere.popup/78.0.1842.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620637063549" />
+    <state x="662" y="235" width="672" height="678" key="search.everywhere.popup/78.0.1842.1080/-1920.0.1920.1040@78.0.1842.1080" timestamp="1620358642571" />
+    <state x="662" y="235" width="673" height="679" key="search.everywhere.popup/78.0.1842.1080@78.0.1842.1080" timestamp="1620567892136" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/examples/src/main/java/kafka/examples/Producer.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/examples/src/main/java/kafka/examples/SimpleConsumerDemo.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/examples/src/main/java/kafka/examples/SimpleConsumerDemo.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/producer/KafkaProducer.java</url>
+          <line>455</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/producer/KafkaProducer.java</url>
+          <line>463</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/producer/internals/ProducerInterceptors.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/producer/KafkaProducer.java</url>
+          <line>552</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/producer/KafkaProducer.java</url>
+          <line>207</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/examples/src/main/java/kafka/examples/Producer.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/producer/KafkaProducer.java</url>
+          <line>313</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/examples/src/main/java/kafka/examples/Producer.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/Metadata.java</url>
+          <line>149</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/producer/KafkaProducer.java</url>
+          <line>469</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/producer/KafkaProducer.java</url>
+          <line>782</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/producer/internals/DefaultPartitioner.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/producer/internals/Sender.java</url>
+          <line>134</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/producer/internals/Sender.java</url>
+          <line>173</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/producer/internals/Sender.java</url>
+          <line>191</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/examples/src/main/java/kafka/examples/Consumer.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/consumer/KafkaConsumer.java</url>
+          <line>594</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/consumer/KafkaConsumer.java</url>
+          <line>646</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/Metadata.java</url>
+          <line>220</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/examples/src/main/java/kafka/examples/Consumer.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/examples/src/main/java/kafka/examples/Consumer.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/consumer/KafkaConsumer.java</url>
+          <line>808</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/consumer/internals/SubscriptionState.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/consumer/internals/SubscriptionState.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/consumer/internals/SubscriptionState.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/consumer/KafkaConsumer.java</url>
+          <line>992</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/consumer/KafkaConsumer.java</url>
+          <line>1028</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/consumer/internals/Fetcher.java</url>
+          <line>415</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/consumer/internals/Fetcher.java</url>
+          <line>149</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/consumer/KafkaConsumer.java</url>
+          <line>1038</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/producer/internals/RecordAccumulator.java</url>
+          <line>165</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/producer/KafkaProducer.java</url>
+          <line>500</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/producer/internals/RecordAccumulator.java</url>
+          <line>440</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/producer/internals/RecordAccumulator.java</url>
+          <line>385</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/producer/internals/Sender.java</url>
+          <line>358</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/NetworkClient.java</url>
+          <line>237</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/producer/internals/Sender.java</url>
+          <line>237</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/common/network/Selector.java</url>
+          <line>244</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/consumer/KafkaConsumer.java</url>
+          <line>978</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/consumer/internals/ConsumerCoordinator.java</url>
+          <line>245</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/examples/src/main/java/kafka/examples/KafkaConsumerProducerDemo.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="java.util.HashMap$Node" fieldName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
